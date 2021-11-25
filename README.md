@@ -1,5 +1,5 @@
-# NASA_Battery_Data_Set_EDA
-EDA for NASA Battery Data Set
+# NASA Battery DataSet EDA
+EDA for NASA Battery Data Set 1
 
 Data Set
 * https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/
