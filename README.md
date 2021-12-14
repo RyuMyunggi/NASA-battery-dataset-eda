@@ -12,7 +12,8 @@ EDA for NASA Battery Data (DateSet1-B0005, B0006, B0007, B0018)
 
 ## Result
 ### 1.discharge and soh per cycles trend
-source: NASA_battery_data_set_eda.ipynb
+source: eda_for_discharge_capacites.ipynb <br>
+https://github.com/RyuMyunggi/NASA-battery-dataset-eda/blob/main/eda_for_battery_field.ipynb
 
 #### 1-1. discharge per cycles
   <img width="677" alt="스크린샷 2021-11-27 오후 9 29 57" src="https://user-images.githubusercontent.com/77147527/143681360-4b50b81f-2ca9-4ce3-9102-a92fd08d3ade.png">
@@ -21,7 +22,8 @@ source: NASA_battery_data_set_eda.ipynb
   <img width="677" alt="스크린샷 2021-11-27 오후 9 31 03" src="https://user-images.githubusercontent.com/77147527/143681403-837adf07-d6b5-4883-9ab0-9560cfb55610.png">
 
 ### 2: battery field per cycles trend
-source: battery-field-analysis.ipynb
+source: eda_for_battery_field.ipynb <br>
+https://github.com/RyuMyunggi/NASA-battery-dataset-eda/blob/main/eda_for_battery_field.ipynb
 
 #### 2-1. battery voltage per cycles
   <img width="674" alt="스크린샷 2021-11-27 오후 9 34 19" src="https://user-images.githubusercontent.com/77147527/143681510-a3b73c15-1243-4d5d-8cf2-655dcfcd575d.png">
