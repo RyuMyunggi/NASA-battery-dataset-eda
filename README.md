@@ -1,26 +1,26 @@
 # 🚀 NASA Battery Data Exploratory Data Analysis
 * EDA for NASA Battery Data (DateSet1-B0005, B0006, B0007, B0018)
 
-## 📙 Data Set
+## 📙 데이터 셋(Data Set)
 * NASA Ames Prognostics Center에서 공개하고 있는 자료를 활용
 * source: https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/
 
-## 🔖 Reference
+## 🔖 연구 참조(Reference)
 * https://notebook.community/adrienBizeray/battery_skunkworks/nasa-battery-data-analysis
 * https://www.kaggle.com/rajeevsharma993/battery-health-nasa-dataset
 * https://www.koreascience.or.kr/article/JAKO202007163270634.pdf
 * https://github.com/natskiu/Nasa-Battery
 
-## 📝 연구 목적
+## 📝 연구 목적(Research Objective)
 * 사이클 당 배터리의 상태를 알아 볼 수 있는 주요 지표에 대한 평균 변화량 탐구
 * NASA라는 공신력 있는 기관의 데이터를 통해 어느정도 표준적인 배터리 지표에 대한 사용량 트렌드를 얻기 위함
 
-## 🎞 연구 가설
+## 🎞 연구 가설(Research Hypothesis)
 * 사이클 횟수가 증가할 수록 배터리 셀의 주요 지표 및 성능은 저하 될 것이다.
   * 이번 연구에서는 배터리 셀의 성능을 측정하는 주요 지표로 전압(voltage), 전류(current), 온도(temp)를 선정
 * 배터리의 충/방전 정도에 따라 최종 사이클 이후 배터리 상태 변화량은 상이할 것이다.
 
-## 🔍 주요용어
+## 🔍 주요용어(Keyword)
 * SOH: State Of Health. 배터리의 이상적인 상태와 현재 배터리의 상태를 비교하여 나타낸 성능지수
 * cycle: 만충 상태(charge-cut-off)에서 각 배터리의 방전 완료 조건(discharge-cut-off)에 도달 할 때까지의 구간
 * DOD: Discharge Of Depth. 방전 깊이(구간). ex) dod 80 == 10% ~ 90%, dod 90 == 5% ~ 95%
